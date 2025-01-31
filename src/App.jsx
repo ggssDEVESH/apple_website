@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <Hero />
       <Highlights />
+      <p>god</p>
     </main>
   );
 }
